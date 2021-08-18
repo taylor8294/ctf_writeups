@@ -1,0 +1,1 @@
+See [CyberChef solution](https://gchq.github.io/CyberChef/#recipe=URL_Decode()From_Base58('123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz',false)&input=NFlYMUNiNlE3dkRxNWJ0M1NpWXNuQ0ZxNFNwNWJCYmtZVGRpRmd0eUNVa0doUGVNNXBWSnk0Zw).
